@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Sleep",
+      "date": "6 June 2017",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Teaching",
+      "date": "6 June 2017",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Be A King",
+      "date": "6 June 2017",
+      "reminder": true
+    }
+  ]
+}
